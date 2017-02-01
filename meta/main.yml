@@ -21,4 +21,4 @@ galaxy_info:
 allow_duplicates: no
 
 dependencies:
-  - role: Maarc.rh-jboss-common
+  - role: mm0.rh-jboss-common
